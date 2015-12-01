@@ -16,3 +16,4 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/vk810.mk
+

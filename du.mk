@@ -3,7 +3,7 @@ TARGET_BOOTANIMATION_HALF_RES := true
 TARGET_SCREEN_HEIGHT := 1920
 TARGET_SCREEN_WIDTH := 1200
 
-# Inherit some common CM stuff.
+# Inherit some common DU stuff.
 $(call inherit-product, vendor/du/config/common_full_tablet_wifionly.mk)
 $(call inherit-product, vendor/du/config/telephony.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)

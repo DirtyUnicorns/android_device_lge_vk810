@@ -129,7 +129,6 @@ BOARD_USES_QC_TIME_SERVICES := true
 
 COMMON_GLOBAL_CFLAGS += -DBOARD_CHARGING_CMDLINE_NAME='"androidboot.mode"' -DBOARD_CHARGING_CMDLINE_VALUE='"chargerlogo"'
 
-BOARD_USES_CYANOGEN_HARDWARE := true
 BOARD_HARDWARE_CLASS += \
     device/lge/vk810/cmhw \
     hardware/cyanogen/cmhw
