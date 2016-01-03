@@ -1,10 +1,23 @@
 [
  {
-   "repository": "android_kernel_lge_vk810",
+   "repository": "DirtyUnicorns/android_kernel_lge_vk810",
    "target_path": "kernel/lge/vk810"
+   "branch": "m-caf"
  },
  {
    "repository": "android_external_connectivity",
    "target_path": "external/connectivity"
- }
-]
+   "branch": "m-caf"
+ },
+ {
+   "repository": "DirtyUnicorns/android_vendor_lge",
+   "target_path": "vendor/lge"
+   "branch": "m-caf"
+ },
+ {
+   "repository": "DirtyUnicorns/hardware_qcom_msm8960",
+   "target_path": "hardware/qcom/msm8960"
+   "branch": "m-caf"
+ },
+
+
