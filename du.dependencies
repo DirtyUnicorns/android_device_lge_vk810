@@ -19,5 +19,12 @@
    "target_path": "hardware/qcom/msm8960"
    "branch": "m-caf"
  },
+ {
+   "repository": "DirtyUnicorns/device_qcom_sepolicy",
+   "target_path": "device/qcom/sepolicy"
+   "branch": "m-caf"
+ },
+
+
 
 
